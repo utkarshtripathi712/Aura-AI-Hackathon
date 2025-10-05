@@ -4,5 +4,10 @@ pandas==2.1.4
 opencv-python-headless==4.9.0.80
 tensorflow==2.15.0
 deepface==0.0.81
+torch==2.1.2
+transformers==4.35.2
 streamlit-webrtc==0.47.6
+SpeechRecognition==3.10.1
+gTTS==2.5.1
+librosa==0.10.1
 PyAV==12.1.0
