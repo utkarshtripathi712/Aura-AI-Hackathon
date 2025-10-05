@@ -12,3 +12,4 @@ pyaudio
 scipy
 torchvision
 torchaudio
+tf-keras
