@@ -3,3 +3,8 @@ torch
 scipy
 torchvision
 torchaudio
+transformers 
+torch 
+scipy 
+torchvision 
+torchaudio 
