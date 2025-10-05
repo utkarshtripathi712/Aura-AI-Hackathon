@@ -1,0 +1,13 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+deepface
+streamlit-webrtc
+SpeechRecognition
+gTTS
+librosa
+transformers
+torch
+pyaudio
+PyAV
