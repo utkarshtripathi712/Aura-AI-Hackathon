@@ -1,6 +1,8 @@
 streamlit
 opencv-python-headless
 pandas
+tensorflow==2.15.0
+keras==2.15.0
 deepface
 streamlit-webrtc
 SpeechRecognition
@@ -12,4 +14,3 @@ pyaudio
 scipy
 torchvision
 torchaudio
-tf-keras
