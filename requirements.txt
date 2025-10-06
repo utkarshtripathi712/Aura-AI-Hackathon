@@ -1,5 +1,8 @@
 streamlit
+opencv-python-headless
+numpy
 pandas
+deepface
 streamlit-webrtc
 SpeechRecognition
 gTTS
@@ -7,12 +10,4 @@ librosa
 transformers
 torch
 pyaudio
-scipy
-torchvision
-torchaudio
-# Pinning library versions for compatibility with Python 3.10
-numpy==1.23.5
-opencv-python-headless==4.8.0.76
-tensorflow==2.15.0
-tf-keras==2.15.0
-deepface==0.0.79
+PyAV
