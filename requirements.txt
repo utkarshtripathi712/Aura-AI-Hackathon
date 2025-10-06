@@ -1,3 +1,4 @@
+--python-version=3.10
 streamlit
 opencv-python-headless
 numpy
@@ -10,4 +11,3 @@ librosa
 transformers
 torch
 pyaudio
-PyAV
