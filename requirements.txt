@@ -10,4 +10,4 @@ streamlit-webrtc==0.47.6
 SpeechRecognition==3.10.1
 gTTS==2.5.1
 librosa==0.10.1
-PyAV==12.1.0
+av==12.1.0
